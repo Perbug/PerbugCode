@@ -3,7 +3,7 @@ Perbug Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/perbug-project/perbug.svg?branch=master)](https://travis-ci.org/perbug-project/perbug)
 
-https://perbug.org
+https://perbug.com
 
 What is Perbug?
 ----------------
